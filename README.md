@@ -1,4 +1,11 @@
-# number-to-english
+# Number to English
+
+Small project for converting a number to an English string.
+
+## Built With
+
+* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
+* [TweenMax](https://greensock.com/tweenmax) - JavaScript tools for high-performance HTML5 animations that work in all major browsers
 
 ## Project setup
 ```
@@ -17,7 +24,7 @@ npm run build
 
 ### Run your tests
 ```
-npm run test
+npm test
 ```
 
 ### Lints and fixes files
